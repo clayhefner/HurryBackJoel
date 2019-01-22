@@ -1,4 +1,4 @@
-//Shitty js for how many days Clay can survive without Joel//
+//Shitty js for how many days team can survive without Joel//
 
 var response 
 
@@ -8,4 +8,4 @@ function howManyDaysTeamCanLastWithoutJoel(days){
   return response
 }
 
-console.log(howManyDaysTeamCanLastWithoutJoel())
+
